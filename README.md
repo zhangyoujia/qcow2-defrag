@@ -16,8 +16,11 @@ qemu-img convert command(eg: qemu-img convert -f qcow2 -o preallocation=off -O q
 ![useage](./test/qcow2-defrag_help.png)
 
 ## Examples
+## qcow2-defrag info
 ![test](./test/qcow2-defrag_info.png)
 
+## qcow2-dump check
 ![test](./test/defrag.png)
 
+## defragging
 ![test](./test/defragging.png)
